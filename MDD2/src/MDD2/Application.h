@@ -5,7 +5,8 @@
 
 
 
-namespace MDD2 {
+namespace MDD2 
+{
 	class MDD2_API Application
 	{
 		public:

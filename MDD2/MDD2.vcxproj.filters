@@ -27,9 +27,15 @@
     <ClInclude Include="src\MDD2\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\MDD2\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\MDD2\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MDD2\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,0 +1,3 @@
+[submodule "MDD2/vendor/spdlog"]
+	path = MDD2/vendor/spdlog
+	url = https://github.com/gabime/spdlog

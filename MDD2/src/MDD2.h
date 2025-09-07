@@ -5,6 +5,7 @@
 
 #include "MDD2/Application.h"
 #include "MDD2/core.h"
+#include "MDD2/Log.h"
 
 #include <iostream> 
 

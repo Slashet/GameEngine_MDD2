@@ -2,7 +2,8 @@
 #include <iostream>
 
 
-namespace MDD2 {
+namespace MDD2 
+{
 	Application::Application()
 	{
 	}
@@ -11,8 +12,8 @@ namespace MDD2 {
 	}
 	void Application::Run()
 	{
-		while (true) {
-			std::cout << "Running MDD2 Engine..." << std::endl;
+		while (true) 
+		{
 		}
 			
 	}
